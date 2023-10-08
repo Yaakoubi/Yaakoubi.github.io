@@ -82,15 +82,15 @@ analytics:
 author:
   name             : "Yassine Yaakoubi"
   avatar           : "Avatar.jpg"
-  bio              : "IVADO-COSMO Postdoctoral Fellow at McGill University"
+  bio              : "IVADO-COSMO Postdoctoral Fellow at McGill University. You can find my CV <a href='/files/CV/Yaakoubi_CV.pdf' target='_blank'>here</a>."
   employer         : ##"McGill University"
   location         : "Montreal, QC, Canada"
   email            : "yassine.yaakoubi@mcgill.ca"
-  linkedin         : "https://www.linkedin.com/in/yaakoubiyassine/"
-  researchgate     : "https://www.researchgate.net/profile/Yassine-Yaakoubi"
-  github           : "https://github.com/Yaakoubi/"
   orcid            : "https://orcid.org/0000-0001-6718-5546"
   googlescholar    : "https://scholar.google.com/citations?user=EpWjG5wAAAAJ"
+  linkedin         : "https://www.linkedin.com/in/yaakoubiyassine/"  
+  researchgate     : "https://www.researchgate.net/profile/Yassine-Yaakoubi"
+  github           : "https://github.com/Yaakoubi/"
 
 
 # Reading Files
