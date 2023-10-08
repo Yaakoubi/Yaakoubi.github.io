@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Yassine Yaakoubi"
-  avatar           : "/files/Yaakoubi.jpg"
-  bio              : "IVADO-COSOMO Postdoctorall Fellow"
-  employer         : "McGill University"
+  avatar           : "Yaakoubi.jpg"
+  bio              : "IVADO-COSMO Postdoctoral Fellow at McGill University"
+  employer         : ##"McGill University"
   location         : "Montreal, QC, Canada"
   email            : "yassine.yaakoubi@mcgill.ca"
   linkedin         : "https://www.linkedin.com/in/yaakoubiyassine/"
