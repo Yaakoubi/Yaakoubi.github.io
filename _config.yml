@@ -78,11 +78,12 @@ analytics:
     tracking_id          :
 
 
+
 # Site Author
 author:
   name             : "Yassine Yaakoubi"
   avatar           : "Avatar.jpg"
-  bio              : "IVADO-COSMO Postdoctoral Fellow at McGill University. You can find my CV <a href='/files/CV/Yaakoubi_CV.pdf' target='_blank'>here</a>."
+  bio              : "<a href='https://ivado.ca/en/' target='_blank'>IVADO</a>-<a href='https://cosmo.mcgill.ca/' target='_blank'>COSMO</a> Postdoctoral Fellow at McGill University. You can find my CV <a href='/files/CV/FotiG_CV.pdf' target='_blank'>here</a>."
   employer         : ##"McGill University"
   location         : "Montreal, QC, Canada"
   email            : "yassine.yaakoubi@mcgill.ca"
