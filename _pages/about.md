@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 
-<span style="font-size: 80%;">
+<span style="font-size: 60%;">
 
-I am presently serving as an IVADO-COSMO Postdoctoral Fellow at McGill University, collaborating with Professor Roussos Dimitrakopoulos on the Strategic Research Funding Program titled "Smart Mineral Value/Supply Chains." My research is centered on the development of data-driven lifelong learning stochastic optimizers for sustainable mineral resource management within the IVADO Strategic Research Funding Program "Integrated Machine Learning and Optimization for Decision Making under Uncertainty" project, led by IVADO PI Erick Delage and co-PIs Emma Frejinger and Yossiri Adulyasak.
+I am currently an IVADO-COSMO Postdoctoral Fellow at McGill University, collaborating with Professor Roussos Dimitrakopoulos on the Strategic Research Funding Program titled "Smart Mineral Value/Supply Chains." My research is centered on the development of data-driven lifelong learning stochastic optimizers for sustainable mineral resource management within the IVADO Strategic Research Funding Program "Integrated Machine Learning and Optimization for Decision Making under Uncertainty" project, led by Erick Delage and Emma Frejinger and Yossiri Adulyasak.
+
 
 Before my current role, I received my Ph.D. in Mathematics from Polytechnique Montréal, where I worked on combining artificial intelligence and mathematical programming for airline crew scheduling under the supervision of François Soumis and Simon Lacoste-Julien. Prior to that, I completed a double degree Maîtrise (MSc equivalent) in Applied Mathematics at Polytechnique Montréal and Institut polytechnique de Grenoble. My thesis focused on column generation and machine learning for airline crew pairing, under the supervision of François Soumis. I also hold an Engineering Diploma in Information Technology from Institut polytechnique de Grenoble, with a triple major and double minor, graduating with the highest honors.
 
