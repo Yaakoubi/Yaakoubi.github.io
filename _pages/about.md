@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="background-color: #e6f7ff; padding: 14px; border-radius: 5px; border: 1px solid #99d6ff;">
   <h2 style="text-align: center; font-size: 145%; font-weight: bold; margin-top: 0;">🚀🎉 Exciting News! 🎉🚀</h2>
-  <p style="font-size: 120%; text-align: center; margin-bottom: 0;">
+  <p style="font-size: 115%; text-align: center; margin-bottom: 0;">
     I've recently been appointed as an Assistant Professor at the <a href="https://www.concordia.ca/ginacody.html">Gina Cody School of Engineering and Computer Science at Concordia University</a>, starting Fall 2024! I'm establishing my new research group, so please don't hesitate to reach out for collaboration or supervision (<a href="https://form.jotform.com/yassineyaakoubi/application">here</a>, for <b>M.Sc.</b> and <b>Ph.D.</b>).
   </p>
 </div>
