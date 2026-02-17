@@ -18,6 +18,9 @@ main:
   - title: "CV"
     url: /files/CV/Yaakoubi_CV.pdf
 
+  - title: "AI4DM-RG"
+    url: "https://ai4dm-rg.github.io/"
+
   - title: "Contact"
     url: "/contact/"
       
